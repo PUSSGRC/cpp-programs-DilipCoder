@@ -1,16 +1,12 @@
-# YANTRIX-CPP
+<h1> CPP-ASSIGNMENT</h1>
 
-C++ PROGRAMS
+<h2>C++ PROGRAMS</h2>
 
-START SHOWING ALL YOUR ACTIVITES OF CODING AND PROJECTS USING GITHUB, THE BEST PLATFORM FOR ALL YOUR PROGRAMMS AND PROJECTS.
+<p>The theoretical study of object oriented programming in c++ has helped us understand what the language can help us for real life use.</p>
 
-SOON WE ARE GOING TO START MANY PROJECTS WHICH YOU HAVE TO SUBMIT IT ON GITHUB PAGE OF OUR COLLEGE, SO START LEARNING TO USE GITHUB BY 
-SUBMITTING PROGRAMS ON GITHUB.
+<p>But to practice that, it is important to brings its practical aspect into the curriculum.
+So these practical programs of c++ have helped me and other begineers to understand how we can put what we have learnt into use.</p>
 
-DO POST YOUR ALL C++ PROGRAMS WHICH YOU HAVE DONE TILL NOW, AND ALSO IN THE FUTURE.
+<p>Here all programs are simple demonstrations.</p>
 
-START WITH THE HELLO.CPP, PRINTING "HELLO GITHUB!" IN C++ PROGRAMMING LAGUAGE AND DO SUBMIT AS MANY PROGRAM AS YOU CAN.
-
-WILL MEET YOU SOON WITH SOME BASIC PROJECTS ON DATA STRUCTURES USING STACK.
-
-BEST OF LUCK!!!
+<p>I would like to thanks <b>Mr. Naveen Dogra sir</b> for always guiding me in the same.</p>
